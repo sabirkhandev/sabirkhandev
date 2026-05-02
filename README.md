@@ -44,7 +44,7 @@
 ### 🚀 Highlighted Projects (Click to View Live)
 
 - 🎨 **[Personal Portfolio](https://sabir-portfolio.vercel.app)** - Central hub showcasing my technical expertise and frontend projects.
-- 📝 **[Paste Management Web App](https://your-paste-app-link.vercel.app)** - Efficient state management using Redux Toolkit and Local Storage.
+- 📝 **[Paste Management Web App](https://paste-app-omega-roan.vercel.app/)** - Efficient state management using Redux Toolkit and Local Storage.
 - ☕ **[Bean & Brew Coffee Website](https://your-bean-brew-link.vercel.app)** - Mobile-first interface with dynamic scroll animations using Tailwind CSS.
 - 🌤️ **[Weather Forecasting Web App](https://your-weather-app-link.vercel.app)** - Real-time weather data fetching with dynamic backgrounds via OpenWeather API.
 
