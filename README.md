@@ -46,7 +46,7 @@
 - 🎨 **[Personal Portfolio](https://sabir-portfolio.vercel.app)** - Central hub showcasing my technical expertise and frontend projects.
 - 📝 **[Paste Management Web App](https://paste-app-omega-roan.vercel.app/)** - Efficient state management using Redux Toolkit and Local Storage.
 - ☕ **[Bean & Brew Coffee Website](https://your-bean-brew-link.vercel.app)** - Mobile-first interface with dynamic scroll animations using Tailwind CSS.
-- 🌤️ **[Weather Forecasting Web App](https://your-weather-app-link.vercel.app)** - Real-time weather data fetching with dynamic backgrounds via OpenWeather API.
+- 🌤️ **[Weather Forecasting Web App](https://weather-app-omega-livid.vercel.app/)** - Real-time weather data fetching with dynamic backgrounds via OpenWeather API.
 
 ---
 
