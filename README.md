@@ -56,10 +56,10 @@
   <a href="mailto:sabirkhan.devwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sabir" target="_blank">
+  <a href="www.linkedin.com/in/sabir-ali-khan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sabir-portfolio.vercel.app" target="_blank">
+  <a href="https://sabir-portfolio-eta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
