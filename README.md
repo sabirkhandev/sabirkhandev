@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sabir-portfolio.vercel.app/Sabir_Resume.pdf" target="_blank">
+  <a href="https://sabir-portfolio-eta.vercel.app/Sabir_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
